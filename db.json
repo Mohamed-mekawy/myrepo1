@@ -1,0 +1,48 @@
+{
+"checkAutopayment":{
+  "header": {
+    "timstamp": 0,
+    "customerId": "12",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "599428b5-10e4-11e8-aee3-00090ffe0001",
+    "channelId": "",
+    "responeAdditionalParameters": null
+  },
+  "body": {
+   "enabled":true
+ }
+},"activateAutoPayment":{
+  "header": {
+    "timstamp": 0,
+    "customerId": "12",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "09f095f4-10e4-11e8-aee3-00090ffe0001",
+    "channelId": "",
+    "responeAdditionalParameters": null
+  },
+  "body": null
+},"deActivateAutoPayment":{
+  "header": {
+    "timstamp": 0,
+    "customerId": "12",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "599428b5-10e4-11e8-aee3-00090ffe0001",
+    "channelId": "",
+    "responeAdditionalParameters": null
+  },
+  "body": null
+}
+
+}
