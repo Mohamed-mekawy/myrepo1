@@ -71,6 +71,29 @@
       "paymentChannel": "GUI"
     }
   ]
+},"familyViewMembers":{
+  "header": {
+    "timstamp": 0,
+    "customerId": "string",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "f26559a8-ff7e-11e7-aa33-8c705af896fc",
+    "channelId": "",
+    "responeAdditionalParameters": null
+  },
+  "body": [
+    {
+      "mobileNumber": "1521616066",
+      "groupName": "FRIEND"
+    },
+    {
+      "mobileNumber": "1521616055",
+      "groupName": "FRIEND"
+    }
+  ]
 }
 
 }
